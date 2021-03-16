@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjana Bansal (@Sanjana089)
-- 👀 I’m interested in living the life as calm as possible
+- 👀 I’m interested in living the life as calmly as possible
 - 🌱 I’m currently in the last semester of my B.Tech (ECE)
 
 <!---

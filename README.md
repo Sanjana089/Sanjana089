@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sanjana Bansal (@Sanjana089)
-- 👀 I’m interested in living the life as calmly as possible
-- 🌱 I’m currently in the last semester of my B.Tech (ECE)
+- 🌱 I’m a graduate in Electronics and Communication Engineering with a CGPA of 9.82
 
 <!---
 Sanjana089/Sanjana089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

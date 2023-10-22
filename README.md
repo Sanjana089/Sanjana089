@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sanjana Bansal (@Sanjana089)
 - 🎓 I’m a graduate in Electronics and Communication Engineering with a CGPA of 9.84 (B.Tech NIT Hamirpur)
-- 💻 I'm an associate software engineer with 1.5 years of experience
+- 💻 I'm an associate software engineer with 2.4 years of experience
+- I'm currently using Java Spring Boot and React JS
 
 
 
